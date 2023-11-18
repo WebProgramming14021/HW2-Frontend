@@ -55,7 +55,7 @@
 
 ### مراجع
 
-می‌توانید از وبسایت های زیر برای طراحی خود کمک بگیرید:
+می‌توانید از وب‌سایت های زیر برای طراحی خود کمک بگیرید:
 
 https://themes.muffingroup.com/be/cafe/ \
 https://themes.muffingroup.com/be/cafe2/ \
