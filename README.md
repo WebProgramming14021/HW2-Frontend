@@ -52,8 +52,11 @@
 * سفارش انتخاب شده
 
 به طور مثال با کلیک بر ورودی سفارش، می توان لیستی از آیتم ها را نشان داد و کاربر با کلیک بر هر یک، آن را به سبد خرید خود اضافه خواهد کرد.
+
 ### مراجع
+
 می توانید از وبسایت های زیر برای طراحی خود کمک بگیرید
+
 https://themes.muffingroup.com/be/cafe/ \
 https://themes.muffingroup.com/be/cafe2/ \
 https://www.cafepatachou.com/cafe-patachou-menu/
